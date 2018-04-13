@@ -2,10 +2,9 @@
 
 ![Reagent-Project](logo-rounded.jpg)
 
-本知识库的目的是提供如何使用[reagent]完成某项任务的“配方”
-The goal of this repo is to provide recipes for how to accomplish specific tasks in a [reagent](https://github.com/reagent-project/reagent) webapp.
+本知识库的目的是提供如何在[reagent](https://github.com/reagent-project/reagent)web应用中完成某项任务的“配方”。
 
-For updates, follow us on twitter: [@ReagentProject](https://twitter.com/ReagentProject). Please include `#reagent #cljs` when tweeting about reagent.
+如需要更新提醒请在twitter上follow：[@ReagentProject](https://twitter.com/ReagentProject)。如果要tweet我们，请在开头包含`#reagent #cljs`
 
 For video tutorials, [subscribe](https://www.youtube.com/channel/UC1UP5LiNNNf0a45dA9eDA0Q) to us on youtube.
 
