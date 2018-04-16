@@ -19,8 +19,8 @@
 * 动画
     * [mojs animation](https://github.com/reagent-project/reagent-cookbook/tree/master/recipes/mojs-animation)
     * [ReactCSSTransitionGroup](https://github.com/reagent-project/reagent-cookbook/tree/master/recipes/ReactCSSTransitionGroup)
-* 引导
-    * [bootstrap modal window](https://github.com/reagent-project/reagent-cookbook/tree/master/recipes/bootstrap-modal)
+* bootstrap
+    * [bootstrap 模态窗口](https://github.com/reagent-project/reagent-cookbook/tree/master/recipes/bootstrap-modal)
     * [bootstrap-datepicker](https://github.com/reagent-project/reagent-cookbook/tree/master/recipes/bootstrap-datepicker)
 * Canvas画布
     * [Canvas fills div](https://github.com/reagent-project/reagent-cookbook/tree/master/recipes/canvas-fills-div)
@@ -65,22 +65,22 @@
 
 ## 通常配方的起点
 
-The starting point for reagent-cookbook recipes is [reagent-cookbook-template](https://github.com/gadfly361/reagent-cookbook-template).
+ reagent-cookbook的起点配方是 [reagent-cookbook-template](https://github.com/gadfly361/reagent-cookbook-template).
 
 ```
 $ lein new rc <name of recipe>
 ```
 
-Note: reagent-cookbook-template was made specifically for following along with recipes.  If you are interested in starting a new reagent application with some batteries included, then [reagent-template](https://github.com/reagent-project/reagent-template) provides a good starting configuration: `$ lein new reagent <name of app>`.
+注意: reagent-cookbook-template 是专门为了学习各种配方照着做而制作的.  如果你想开始一个新的reagent应用包含一些 batteries, 那么[reagent-template](https://github.com/reagent-project/reagent-template) 提供一个很好的初始配置: `$ lein new reagent <name of app>`.
 
 ## 贡献
 
-Recipes are welcomed!  Please fork, branch, and submit a pull request.
+欢迎提供各种新配方!  请fork, branch, 和提交 pull request.
 
-Also, I would love a PR for:
+同时, 我也需要这样的 PR:
 
-* Adding the right externs for advanced compilation of the *nvd3* recipe (it's inside old-recipes for now)
-* Adding the right externs for advanced compilation of the *mermaid* recipe (it's inside old-recipes for now)
+* Adding the right externs for advanced compilation of the *nvd3* recipe (目前暂时在 old-recipes)
+* Adding the right externs for advanced compilation of the *mermaid* recipe (目前暂时在 old-recipes)
 
 ## 许可
 
